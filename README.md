@@ -1,2 +1,18 @@
 # config-gen
-Uses python and jinja2
+
+Requirements and libraries:
+Jinja2
+MarkupSafe
+jtextfsm
+requests
+python-slugify
+psutil
+jupyter
+ciscoconfparse
+netmiko
+cerberus
+pandas
+lxml
+BeautifulSoup4
+html5lib
+networkconfgen
